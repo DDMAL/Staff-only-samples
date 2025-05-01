@@ -21,7 +21,7 @@ The `Miyao` job uses the extracted staff line layer of a folio to find the stave
 And this is the workflow: 
 [Staff lines to Miyao workflow.json.zip](https://github.com/user-attachments/files/20006405/Staff.lines.to.Miyao.workflow.json.zip)
 
-This repo contains staff line layers for 5 folios from each of the above manuscripts. For each folio, there is also the output of every intermediary job between the first `PNG` job and `Miyao`. The name of the resource is the job that _output it_. 
+This repo contains staff line layers (called **layer 2**) for 5 folios from each of the above manuscripts. For each folio, you'll also find the original folio image, as well as the output of every intermediary job between the first `PNG` job and `Miyao`. The name of the resource is the job that _output it_. 
 
 There are also two synthetic staff line layers meant to be the control layers. One has a four-line staff, and the other has a five-line staff.
 
